@@ -1,0 +1,12 @@
+{
+	#if you are going to use github as the masterVersionfile please use the raw text
+    "masterVersionFile":"https://raw.githubusercontent.com/Algester/azurlaneironbloodportraitpack/master/azurlanenorthunionportrait.version",
+    "modName":"Azur Lane North Union Portrait Pack",
+    "modThreadId":17251,
+    "modVersion":
+    {
+        "major":1,
+        "minor":0,
+        "patch":0
+    }
+}
